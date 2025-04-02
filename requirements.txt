@@ -60,7 +60,6 @@ pyarrow==19.0.1
 pydeck==0.9.1
 pyparsing==3.2.1
 PyPDF2==3.0.1
-pypiwin32==223
 pyreadline3==3.5.4
 PySocks==1.7.1
 python-dateutil==2.9.0.post0
